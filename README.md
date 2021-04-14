@@ -1,1 +1,1 @@
-# lottorepo
+# lottoprojekt
